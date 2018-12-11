@@ -22,7 +22,7 @@ url: "https://larrycharbonneau4.com/" # the base hostname & protocol for your si
 twitter_url: https://twitter.com/r00t4ccess
 github_url:  https://github.com/lawrence123
 linkedin_url: https://www.linkedin.com/in/lawrencecharbonneau4
-resume_url: ../docs/resume.txt
+resume_url: ../assets/docs/resume.txt
 show_downloads: false
 # Build settings
 markdown: kramdown
